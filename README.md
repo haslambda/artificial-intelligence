@@ -6,6 +6,6 @@ Code examples and projects related to artificial intelligence
 
 ### [Genetic Algorithm](genetic-algorithm)
 
-#### [ga\_polynomial\_approximation.py](genetic-algorithim/ga_polynomial_approximation.py)
+#### [ga\_polynomial\_approximation.py](genetic-algorithm/ga_polynomial_approximation.py)
 
 Demonstration of a polynomial approximation of sin(x) using a genetic algorithm in Python 3.
